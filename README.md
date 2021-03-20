@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="350" src="logo.jpeg" />
+    <img align="center" width="100%" src="logo.jpeg" />
   </a>
 </p>
 </br>
@@ -18,10 +18,8 @@
   
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Bem vindos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-
-## Skills
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
