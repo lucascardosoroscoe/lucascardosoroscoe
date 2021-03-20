@@ -2,6 +2,9 @@
   <a href="https://lrsoftware.com.br/">
     <img align="center" width="100%" src="logo.jpeg" />
   </a>
+  <a href="https://lrsoftware.com.br/">
+    **Clique aqui** e conheça a LR Software.
+  </a>
 </p>
 </br>
 </br>
