@@ -74,9 +74,18 @@ Desenvolver o SIGMA (Sistema de Gestão e Monitoramento Ambiental). Desde a
 configuração do Servidor até a interface para o usuário final. Estimativa de
 conclusão: Junho de 2021
 
+* Experiências Extras
 - Sócio Fundador da Lanchonete Dona Lizena, Santo Antônio do Amparo - MG (2017 - 2018)
-- Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2018()
+- Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2019)
 
+### Interesses/Estudos
+
+- Solidity + Smart Contracts Ethereum
+- web3.js API + dapps
+- Fluter (Dart)
+- Gestão de pessoas, de processos e de empresas
+- Teoria Monetária Internacional - Economia, moedas e ciclos econômicos
+- Negócios e Investimentos
 
 
 ## Contato :iphone:
