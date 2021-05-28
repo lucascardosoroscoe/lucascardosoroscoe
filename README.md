@@ -51,7 +51,7 @@
 - 💙 Linguagens: PHP, JavaScript, JAVA, Phyton
 Frameworks: Laravel, Android Studio, React Native, Bootstrap, JQuery,.
 Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Microsoft Azure, Moodle,
-WordPress, Servidor Apache (XAMPP), Engenharia de software, Design Paterns, POO,
+WordPress, Servidor Apache (XAMPP), Servidor IIS (PHP), Engenharia de software, Design Paterns, POO,
 Metodologias Ágeis.
 Inglês: Intermediário
 5 anos de experiência como Empreendedor
