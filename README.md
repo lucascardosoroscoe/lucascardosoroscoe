@@ -1,17 +1,6 @@
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardosoroscoe&layout=compact"
-  />
-  <img
-    align="center"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=lucascardosoroscoe&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-  />
-  
-</p>
 
 ## Bem vindos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -32,22 +21,37 @@
     
    
 </p>
-💙 Eu transformo problemas complexos em sistemas inteligentes. Minha especialidade é arquitetar soluções que unem estratégia, automação e tecnologia para melhorar processos e aumentar a eficiencia de negócios e Órgãos Públicos.
+💡 Transformo desafios complexos em soluções tecnológicas inteligentes, com foco em automação, estratégia e impacto real — especialmente no setor público e ambiental.
 
-### Qualificação
 
-- 👨‍💻 Gestor de Contratos de Desenvolvimento de Softwares no Instituto do Meio Ambiente do Mato Grosso do Sul **IMASUL**.
-- 🌱 Análista de Sistemas formado pela **INSTED** -> Pós graduando em Inteligência Artificial pela **UNIDERP**.
+### 🎓 Formação
 
-Linguagens: PHP, Phyton, JavaScript, JAVA 
-Frameworks: Laravel, N8N, FastAPI, Next.js, React Native, Bootstrap, JQuery, Android Studio.
-Tecnologias: IA, Engenharia de Prompt, HTML, CSS, MySQL, SQLServer, GitHub, Docker, Microsoft Azure, Moodle,
-WordPress, BI com QlikSence, Servidor Apache (XAMPP), Servidor IIS (PHP), Engenharia de software, Design Paterns, POO,
-Metodologias Ágeis, contratos públicos.
+- 📘 Análise de Sistemas – INSTED
+- 🎓 Pós-graduação em Inteligência Artificial – UNIDERP (em andamento)
+- 💼 10+ anos como empreendedor | 8+ anos em desenvolvimento | 2+ anos como gestor de contratos públicos
+
+### 🔧 Tech Stack
+**Linguagens:** PHP, Python, JavaScript, Java  
+**Frameworks & Plataformas:** Laravel, FastAPI, Next.js, React Native, Android Studio, N8N  
+**Front-end:** HTML5, CSS3, Bootstrap, JQuery  
+**Back-end & DevOps:** Docker, Apache, IIS, GitHub, Microsoft Azure  
+**Banco de Dados:** MySQL, SQL Server  
+**Outros:** Inteligência Aritificial, WordPress, Moodle, Qlik Sense (BI), Engenharia de Prompt, Design Patterns, Metodologias Ágeis  
+s.
 Inglês: Intermediário
-10 anos de experiência como Empreendedor, 8 anos de experiência como desenvolvedor, 2 anos como gestor de contratos públicos de programação.
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascardosoroscoe&count_private=true&show_icons=true&custom_title=Atividade no GitHub&hide=issues" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardosoroscoe&layout=compact&langs_count=10&title=Top%20Linguagens" />
+</p>
 
 ### Experiência profissional
+
+👨‍💻 Gestor de Contratos de Desenvolvimento de Softwares no Instituto do Meio Ambiente do Mato Grosso do Sul **IMASUL**.
+  
+🎯 Experiência combinada em software, negócios e contratos públicos — com visão de produto e entrega.
 
 - Analista de Sistemas na Pro-Fissa Educação Coorporativa, CG - MS (2018 - 2019)
 Criar, prestar Suporte e aprimorar plataformas de Ensino Moodle
@@ -57,7 +61,7 @@ Criar, manter e aprimorar plataforma de venda de Cursos Profissionalizantes
 para o Agronegócio. Trabalhar com marketing em redes sociais e venda de
 cursos online e presenciais.
 
-- Sócio Fundador da Startup IngressoZapp, CG - MS (2019 - 2024)
+- Fundador do IngressoZapp, CG - MS (2019 - 2024)
 Staturp com foco na venda de ingressos digitais vendida em 2024 para a Ticket Fire
 
 - Sócio Fundador e Desenvolvedor da LR Software, CG - MS (2020 - Presente)
@@ -71,38 +75,33 @@ conclusão: Junho de 2021
 * Experiências Extras
 - Sócio Fundador da Lanchonete Dona Lizena, Santo Antônio do Amparo - MG (2017 - 2018)
 - Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2020)
-- Proprietário Estância das Flores Espaço de Evnetos, Campo grande - MS (2023 - Presente)
+- Proprietário Estância das Flores Espaço de Eventos, Campo grande - MS (2023 - Presente)
 
-### Interesses/Estudos
-- Inteligência artificial Aplicada
-- Vertical IAs
-- Solidity + Smart Contracts Ethereum
-- web3.js API + dapps
-- Fluter (Dart)
-- Gestão de pessoas, de processos e de empresas
-- Teoria Monetária Internacional - Economia, moedas e ciclos econômicos
-- Negócios e Investimentos
+### 🔍 Interesses Atuais
+
+- IA Aplicada e Prompt Engineering
+- Smart Contracts e Blockchain (Solidity + Web3.js)
+- Arquitetura de Sistemas Públicos
+- Gestão de Negócios, Processos e PEssoas
+- Economia e Teoria Monetária
 
 
-## Contato :iphone:
+### 📫 Vamos nos conectar
 
 <p align="center">
-    <a href="https://github.com/lucascardosoroscoe">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:lucascardosoroscoe@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/lucas-roscoe/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
-    </a>
+  <a href="https://github.com/lucascardosoroscoe">
+    <img src="https://img.shields.io/badge/GitHub-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:lucascardosoroscoe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-roscoe/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-<p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ### Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/lucascardosoroscoe/count.svg" />
  </p>
