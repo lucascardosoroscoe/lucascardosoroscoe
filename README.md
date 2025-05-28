@@ -37,8 +37,7 @@
 **Back-end & DevOps:** Docker, Apache, IIS, GitHub, Microsoft Azure  
 **Banco de Dados:** MySQL, SQL Server  
 **Outros:** Inteligência Aritificial, WordPress, Moodle, Qlik Sense (BI), Engenharia de Prompt, Design Patterns, Metodologias Ágeis  
-s.
-Inglês: Intermediário
+s, Inglês Básico.
 
 ## 📈 GitHub Insights
 
