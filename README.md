@@ -29,10 +29,10 @@
 ### 🔧 Tech Stack
 
 **Linguagens:** PHP, Python, JavaScript, Java  
-**Frameworks & Plataformas:** Laravel, FastAPI, Next.js, React Native, Android Studio, N8N  
+**Frameworks & Plataformas:** Laravel, FastAPI, Next.js, Node, React Native, Android Studio, N8N  
 **Front-end:** HTML5, CSS3, Bootstrap, JQuery  
-**Back-end & DevOps:** Docker, Apache, IIS, GitHub, Microsoft Azure  
-**Banco de Dados:** MySQL, SQL Server  
+**Back-end & DevOps:** Docker, Apache, IIS, GitHub, Microsoft Azure, TFS, MinIO  
+**Banco de Dados:** MySQL, SQL Server, Postgre  
 **Outros:** Inteligência Artificial, WordPress, Moodle, Qlik Sense (BI), Engenharia de Prompt, Design Patterns, Metodologias Ágeis
 
 ---
