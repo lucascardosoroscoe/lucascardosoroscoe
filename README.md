@@ -32,19 +32,20 @@
     
    
 </p>
-
+💙 Eu transformo problemas complexos em sistemas inteligentes. Minha especialidade é arquitetar soluções que unem estratégia, automação e tecnologia para melhorar processos e aumentar a eficiencia de negócios e Órgãos Públicos.
 
 ### Qualificação
 
-- 👨‍💻 Analista de Sistemas no Instituto do Meio Ambiente do Mato Grosso do Sul **IMASUL**.
-- 🌱 Estudante de Análise de Sistemas **INSTED**.
-- 💙 Linguagens: PHP, JavaScript, JAVA, Phyton
-Frameworks: Laravel, Android Studio, React Native, Bootstrap, JQuery,.
-Tecnologias: HTML, CSS, MySQL, SQLServer, GitHub, Docker, Microsoft Azure, Moodle,
-WordPress, Servidor Apache (XAMPP), Servidor IIS (PHP), Engenharia de software, Design Paterns, POO,
-Metodologias Ágeis.
+- 👨‍💻 Gestor de Contratos de Desenvolvimento de Softwares no Instituto do Meio Ambiente do Mato Grosso do Sul **IMASUL**.
+- 🌱 Análista de Sistemas formado pela **INSTED** -> Pós graduando em Inteligência Artificial pela **UNIDERP**.
+
+Linguagens: PHP, Phyton, JavaScript, JAVA 
+Frameworks: Laravel, N8N, FastAPI, Next.js, React Native, Bootstrap, JQuery, Android Studio.
+Tecnologias: IA, Engenharia de Prompt, HTML, CSS, MySQL, SQLServer, GitHub, Docker, Microsoft Azure, Moodle,
+WordPress, BI com QlikSence, Servidor Apache (XAMPP), Servidor IIS (PHP), Engenharia de software, Design Paterns, POO,
+Metodologias Ágeis, contratos públicos.
 Inglês: Intermediário
-5 anos de experiência como Empreendedor
+10 anos de experiência como Empreendedor, 8 anos de experiência como desenvolvedor, 2 anos como gestor de contratos públicos de programação.
 
 ### Experiência profissional
 
@@ -56,6 +57,9 @@ Criar, manter e aprimorar plataforma de venda de Cursos Profissionalizantes
 para o Agronegócio. Trabalhar com marketing em redes sociais e venda de
 cursos online e presenciais.
 
+- Sócio Fundador da Startup IngressoZapp, CG - MS (2019 - 2024)
+Staturp com foco na venda de ingressos digitais vendida em 2024 para a Ticket Fire
+
 - Sócio Fundador e Desenvolvedor da LR Software, CG - MS (2020 - Presente)
 Desenvolvimento de sites, Aplicativos e Sistemas Web
 
@@ -66,10 +70,11 @@ conclusão: Junho de 2021
 
 * Experiências Extras
 - Sócio Fundador da Lanchonete Dona Lizena, Santo Antônio do Amparo - MG (2017 - 2018)
-- Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2019)
+- Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2020)
 
 ### Interesses/Estudos
-
+- Inteligência artificial Aplicada
+- Vertical IAs
 - Solidity + Smart Contracts Ethereum
 - web3.js API + dapps
 - Fluter (Dart)
