@@ -1,89 +1,86 @@
+## 👋 Olá, sou Lucas Roscoe!
 
-## Bem vindos! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://freepngimg.com/download/php/2-2-php-logo-png.png" alt="php" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    
-   
-</p>
 💡 Transformo desafios complexos em soluções tecnológicas inteligentes, com foco em automação, estratégia e impacto real — especialmente no setor público e ambiental.
 
+---
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://freepngimg.com/download/php/2-2-php-logo-png.png" alt="php">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
+
+---
 
 ### 🎓 Formação
 
-- 📘 Análise de Sistemas – INSTED
-- 🎓 Pós-graduação em Inteligência Artificial – UNIDERP (em andamento)
-- 💼 10+ anos como empreendedor | 8+ anos em desenvolvimento | 2+ anos como gestor de contratos públicos
+- 📘 Análise de Sistemas – INSTED  
+- 🎓 Pós-graduação em Inteligência Artificial – UNIDERP (em andamento)  
+- 💼 10+ anos como empreendedor | 8+ anos em desenvolvimento | 2+ anos como gestor de contratos públicos  
+- 🌍 Inglês: Intermediário
+
+---
 
 ### 🔧 Tech Stack
+
 **Linguagens:** PHP, Python, JavaScript, Java  
 **Frameworks & Plataformas:** Laravel, FastAPI, Next.js, React Native, Android Studio, N8N  
 **Front-end:** HTML5, CSS3, Bootstrap, JQuery  
 **Back-end & DevOps:** Docker, Apache, IIS, GitHub, Microsoft Azure  
 **Banco de Dados:** MySQL, SQL Server  
-**Outros:** Inteligência Aritificial, WordPress, Moodle, Qlik Sense (BI), Engenharia de Prompt, Design Patterns, Metodologias Ágeis  
-s, Inglês Básico.
+**Outros:** Inteligência Artificial, WordPress, Moodle, Qlik Sense (BI), Engenharia de Prompt, Design Patterns, Metodologias Ágeis
 
-## 📈 GitHub Insights
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascardosoroscoe&count_private=true&show_icons=true&custom_title=Atividade no GitHub&hide=issues" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardosoroscoe&layout=compact&langs_count=10&title=Top%20Linguagens" />
-</p>
+### 🚀 Projetos em Destaque
 
-### Experiência profissional
 
-👨‍💻 Gestor de Contratos de Desenvolvimento de Softwares no Instituto do Meio Ambiente do Mato Grosso do Sul **IMASUL**.
-  
-🎯 Experiência combinada em software, negócios e contratos públicos — com visão de produto e entrega.
+- **SIGMA (IMASUL)** – Sistema estadual de gestão e monitoramento de condicionantes ambientais.
+- **GCA (IMASUL)** – Sistema de Gestão do Grupo de Controle Ambiental, gerenciando e bonificando metas e resultados dos servidores.
+- **SIGAF (IMASUL)** – Sistema de Gestão Administrativa e Financeira.
+- **GESTÃO DE CONTRATOS PÚBLICOS (IMASUL)** – Gestão de contratos de desenvolvimento de sistemas e dashboards BI.
+- **IngressoZapp** – Startup de ingressos digitais adquirida pela Ticket Fire em 2024 com milhares de usuários e ingreesos vendidos.
 
-- Analista de Sistemas na Pro-Fissa Educação Coorporativa, CG - MS (2018 - 2019)
-Criar, prestar Suporte e aprimorar plataformas de Ensino Moodle
+---
 
-- Sócio Fundador e Diretor Comercial da Plataforma Arkun, CG - MS (2018 - 2020)
-Criar, manter e aprimorar plataforma de venda de Cursos Profissionalizantes
-para o Agronegócio. Trabalhar com marketing em redes sociais e venda de
-cursos online e presenciais.
+### 💼 Experiência Profissional
 
-- Fundador do IngressoZapp, CG - MS (2019 - 2024)
-Staturp com foco na venda de ingressos digitais vendida em 2024 para a Ticket Fire
+- **IMASUL (2020 - Presente)**  
+  Liderança técnica no desenvolvimento do SIGMA, desde a infraestrutura até a interface final. Atuação também como gestor de contratos de software.
 
-- Sócio Fundador e Desenvolvedor da LR Software, CG - MS (2020 - Presente)
-Desenvolvimento de sites, Aplicativos e Sistemas Web
+- **LR Software (2020 - Presente)**  
+  Desenvolvimento de soluções sob demanda em web, mobile, BI e inteligência artificial.
 
-- Desenvolvedor Full Stack no IMASUL - Instituto do Meio Ambiente do Mato Grosso do Sul (2020 - Presente)
-Desenvolver o SIGMA (Sistema de Gestão e Monitoramento Ambiental). Desde a
-configuração do Servidor até a interface para o usuário final. Estimativa de
-conclusão: Junho de 2021
+- **IngressoZapp (2019 - 2024)**  
+  Fundador e CEO da startup de ingressos digitais vendida em 2024.
 
-* Experiências Extras
-- Sócio Fundador da Lanchonete Dona Lizena, Santo Antônio do Amparo - MG (2017 - 2018)
-- Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2020)
-- Proprietário Estância das Flores Espaço de Eventos, Campo grande - MS (2023 - Presente)
+- **Arkun (2018 - 2020)**  
+  Fundador e diretor comercial. Plataforma de cursos profissionalizantes para o agronegócio.
+
+- **Pro-Fissa Educação Corporativa (2018 - 2019)**  
+  Analista de sistemas responsável por plataformas educacionais Moodle.
+
+**Experiências Extras:**  
+- Estância das Flores (2023 - Presente) – Espaço de eventos em Campo Grande - MS  
+- Lanchonete Dona Lizena (2017 - 2018) – Santo Antônio do Amparo - MG  
+- Promotor de Eventos (2016 - 2020)
+
+---
 
 ### 🔍 Interesses Atuais
 
-- IA Aplicada e Prompt Engineering
-- Smart Contracts e Blockchain (Solidity + Web3.js)
-- Arquitetura de Sistemas Públicos
-- Gestão de Negócios, Processos e PEssoas
-- Economia e Teoria Monetária
+- IA Aplicada e Prompt Engineering  
+- Smart Contracts e Blockchain (Solidity + Web3.js)  
+- Arquitetura de Sistemas Públicos  
+- Gestão de Negócios, Processos e Pessoas  
+- Economia e Teoria Monetária Internacional
 
+---
 
 ### 📫 Vamos nos conectar
 
@@ -99,18 +96,13 @@ conclusão: Junho de 2021
   </a>
 </p>
 
+---
 
- ### Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/lucascardosoroscoe/count.svg" />
- </p>
-
-</p>
+### 📊 Total de Visitas
 
 <p align="center">
-
-  ### Créditos
-  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-  <a href="https://img.shields.io/">IMG Shieldes</a>
-  <a href="https://github.com/teteusAraujo">Inspiração</a>
+  <img src="https://profile-counter.glitch.me/lucascardosoroscoe/count.svg" />
 </p>
+
+---
+
