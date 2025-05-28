@@ -71,6 +71,7 @@ conclusão: Junho de 2021
 * Experiências Extras
 - Sócio Fundador da Lanchonete Dona Lizena, Santo Antônio do Amparo - MG (2017 - 2018)
 - Promotor de Eventos, Santo Antônio do Amparo - MG (2016 - 2020)
+- Proprietário Estância das Flores Espaço de Evnetos, Campo grande - MS (2023 - Presente)
 
 ### Interesses/Estudos
 - Inteligência artificial Aplicada
