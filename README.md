@@ -20,7 +20,7 @@
 ### 🎓 Formação
 
 - 📘 Análise de Sistemas – INSTED  
-- 🎓 Pós-graduação em Inteligência Artificial – UNIDERP (em andamento)  
+- 🎓 Pós-graduação em Inteligência Artificial – UNIDERP 
 - 💼 10+ anos como empreendedor | 8+ anos em desenvolvimento | 2+ anos como gestor de contratos públicos  
 - 🌍 Inglês: Intermediário
 
