@@ -98,11 +98,3 @@
 
 ---
 
-### 📊 Total de Visitas
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lucascardosoroscoe/count.svg" />
-</p>
-
----
-
